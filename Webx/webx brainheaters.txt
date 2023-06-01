@@ -1,0 +1,16 @@
+
+1. Short note on Clickstream Analysis
+2. Enlist the strategy to choose your web analytics tool
+3. Explain the characteristics of the semantic web. Enlist and explain their components of Semantic Web
+4. Explain different types of TypeScript Functions
+5. Explain in brief AngularJS built-in directives and AngularJS custom 6. rectives
+7. Explain the concept of AngularJS filters. Define controllers and scope.
+8. Difference between MVC model and DOM model
+9. Explain different ways to access MongoDB from Node.js
+10. Short note on Evaluating API patterns
+11. Enlist details for Handling typical CRUD functions (create, read, update, delete)
+12. Difference between MongoDB and SQL DB
+13. List out different Flask HTTP Methods. Explain any two in brief
+14. Compare Flask and Django
+15. Define and explain RIA using AJAX Techniques
+16. List out the Applications of AJAX in Blogs.

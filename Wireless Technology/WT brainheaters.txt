@@ -1,0 +1,13 @@
+1. Draw and explain the GPRS architecture in detail with a neat diagram.
+2. Explain in brief UMTS architecture.
+3. Explain the evolution of cellular systems highlighting 1G/2G/3G
+4. Write about the GSM logical channel hierarchy in detail.
+5.  Explain in detail the working of a forward link CDMA system with a neat diagram.
+6. What is the spread spectrum? Explain FHSS in detail
+7. Explain wireless multiple access techniques with suitable diagrams.
+8. Explain Wireless sensor network architecture in detail.
+9. Write in brief about WLAN technology and discuss Hidden exposed terminal problems in WLAN. 
+10. State and explain Bluetooth architecture in detail.
+11. Draw and explain Zigbee architecture in detail.
+12. Explain the working of the WEP protocol in detail with a neat diagram.
+13. Explain the WEP protocol in detail with a neat diagram.

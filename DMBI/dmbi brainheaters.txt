@@ -1,0 +1,13 @@
+1. Solve the Problem on Naive Bayes Algorithm
+2. Solve the Problem on K-means Algorithm 
+3. Solve the Problem on single linkage clustering
+4. What is an outlier? Describe methods that are used for outlier analysis? 
+5. What are multiple levels and multidimensional association rules? Explain with suitable examples for each. 
+6. Solve the Problem on Apriori Algorithm
+7. Explain Business Intelligence issues.
+8. Explain the DBSCAN clustering algorithm with an example
+9. What is data visualization? Explain any 3 visualization techniques with examples.
+10. What are various types of Attributes? Or Describe different types of attributes with examples.
+11. Define and explain Data Integration and Cube aggregation
+12. Explain Regression. Explain linear regression with an example.
+13. Explain Market Basket Analysis

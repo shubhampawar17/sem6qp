@@ -1,0 +1,11 @@
+1. What is Cyber-crime? What are the different roles of computers with respect to cybercrime
+2. What is Digital Forensics? Explain the types of Digital Forensics?
+3. Describe the incident response methodology in detail.
+4. List and Explain the different types of Evidence in digital forensics.
+5. What are the steps involved in computer evidence handling? 
+6. Discuss the challenges in Web Application Forensics
+7. List and explain different types of computer forensic tools.
+8. What are Intrusion Detection Systems? Explain in detail the types of IDS 
+9. Explain the attacks on networks and their prevention.
+10. Explain Live Data Acquisition
+11. Explain the procedure to investigating routers. 

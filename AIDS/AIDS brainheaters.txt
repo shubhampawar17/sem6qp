@@ -1,0 +1,14 @@
+1. Explain the Model-based Reflex agent and Utility-based agent with a block diagram. 
+2. Differentiate between Informed and Uninformed search techniques. Also, explain the A*algorithm with suitable examples.  
+3. List out different Uninformed Search Techniques and explain Uniform cost search.
+4. Define and explain Depth Limited Search.
+5. State Bidirectional search with its advantages. 
+6. Short note on Heuristic functions.
+7. Explain in detail about Best First Search.
+8. Solve the Problem on Minimax and Alpha-Beta Pruning.
+9. Explain different knowledge representation methods with example.
+10. Short note on Knowledge-based agent.
+11. Write a short note on Univariate and multivariate methods.
+12. Explain Statistical Methods for Evaluation using ANOVA.
+13. Compare Supervised and Unsupervised learning. 
+14. Explain different types of Machines.
